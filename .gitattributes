@@ -1,0 +1,2 @@
+# Keep sample logs byte-identical on Windows checkouts so test line numbers match.
+*.log text eol=lf
